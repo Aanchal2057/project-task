@@ -1,12 +1,126 @@
-.brands{
-    font-size:medium;
+.brands {
+    font-size: medium;
 }
-/* .down-arrow{
-    margin-left: 50px;
+
+.red-button {
+    background: #F78078;
+    box-shadow: 0 0 0 1px #F78078, inset 0 0 0 2px #fff;
 }
-.back-arrow{
-    margin-left: 622px;
-} */
-.team-intro{
-  margin-left: 10px;
+
+.brand-head {
+    font-size: 35px;
+    margin-left: 450px;
+}
+
+.selection {
+    margin-left: -9px;
+}
+
+@media screen and (width:1024px) {
+    .resize {
+        width: 121%;
+    }
+
+    .member {
+        width: 80%;
+    }
+
+    .you-want {
+        width: 120%;
+    }
+     .you{
+        width: 120%;
+     }
+    .description {
+        margin-left:28px;
+        width: 61%;
+    }
+    .new-size{
+        width:78%;
+    }
+
+}
+@media screen and (width:768px) {
+    .head-social{
+        font-size: 19px;
+        width:154%;
+    }
+    .full-service{
+        font-size: 13px;
+        width:147%;
+    }
+    .button-size{
+        width: 133%;
+    }
+    .highlight{
+        width:175%;
+    }
+    .resize{
+        width: 187%;
+    }
+    .member{
+        width: 78%;
+    }
+    .quotation-mark-desc{
+        font-size: 13px;
+    }
+    .you-want {
+        width: 98%;
+        margin-left: -1px;
+    }
+    .you {
+        width: 192%;
+        margin-left: -61px;
+    }
+    .new-resize{
+        width:81%;
+        
+    }
+    .selection{
+        margin-left: 74px;
+    }
+    .formatting{
+        margin-left: 108px;
+    }
+    .content-creation {
+        width: 138%;
+        margin-left: -23px;
+    }
+    .plan-header{
+        font-size: 18px;
+        margin-left: 16px;
+    }
+    .plan-explain{
+        font-size:14px;
+    }
+}
+@media screen and (width:425px) {
+    .qode-social{
+        font-size: 18px;
+        margin-top: -12px;
+    }
+    .brands{
+        font-size: small;
+    }
+    .pen-icon{
+        margin-top: 1px;
+    }
+    .badges{
+        width: 70%;;
+    }
+    .member{
+        width:50%;
+    }
+    .last-logo{
+        width:50%;
+    }
+    .you-want{
+        width:10%;
+    }
+    .red-size{
+        width: 108%;
+    }
+    .hand{
+        margin-top: 70px;
+    }
 }
